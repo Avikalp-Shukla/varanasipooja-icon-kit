@@ -1,0 +1,502 @@
+{
+ "product": "kundali",
+ "count": 49,
+ "styles": {
+  "ui": "Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers.",
+  "illus": "Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64.",
+  "map": "3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin."
+ },
+ "negative": "Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.",
+ "icons": [
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "birth-date",
+   "name": "Date of Birth",
+   "used_in": "dob field",
+   "draw": "calendar page with small star",
+   "prompt": "Icon \"Date of Birth\" (birth-date). Meaning: dob field. Draw: calendar page with small star. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "birth-time",
+   "name": "Time of Birth",
+   "used_in": "tob field",
+   "draw": "clock with star at 12",
+   "prompt": "Icon \"Time of Birth\" (birth-time). Meaning: tob field. Draw: clock with star at 12. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "birth-place",
+   "name": "Place of Birth",
+   "used_in": "pob field, city search",
+   "draw": "map pin with star in centre",
+   "prompt": "Icon \"Place of Birth\" (birth-place). Meaning: pob field, city search. Draw: map pin with star in centre. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "unknown-time",
+   "name": "Time Unknown",
+   "used_in": "unknown_time checkbox",
+   "draw": "clock with question mark",
+   "prompt": "Icon \"Time Unknown\" (unknown-time). Meaning: unknown_time checkbox. Draw: clock with question mark. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "unknown-gotra",
+   "name": "Gotra Unknown",
+   "used_in": "unknown_gotra checkbox",
+   "draw": "three-node family tree with question mark",
+   "prompt": "Icon \"Gotra Unknown\" (unknown-gotra). Meaning: unknown_gotra checkbox. Draw: three-node family tree with question mark. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "gender-male",
+   "name": "Male",
+   "used_in": "gender",
+   "draw": "person bust, short hair",
+   "prompt": "Icon \"Male\" (gender-male). Meaning: gender. Draw: person bust, short hair. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "gender-female",
+   "name": "Female",
+   "used_in": "gender",
+   "draw": "person bust, bun hairstyle",
+   "prompt": "Icon \"Female\" (gender-female). Meaning: gender. Draw: person bust, bun hairstyle. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "gender-other",
+   "name": "Other / Don't know",
+   "used_in": "gender",
+   "draw": "person bust outline only",
+   "prompt": "Icon \"Other / Don't know\" (gender-other). Meaning: gender. Draw: person bust outline only. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "latitude-longitude",
+   "name": "Coordinates",
+   "used_in": "auto geo-lookup",
+   "draw": "globe with crosshair",
+   "prompt": "Icon \"Coordinates\" (latitude-longitude). Meaning: auto geo-lookup. Draw: globe with crosshair. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "time-zone-birth",
+   "name": "Birth Time Zone",
+   "used_in": "DST/zone correction",
+   "draw": "clock over globe",
+   "prompt": "Icon \"Birth Time Zone\" (time-zone-birth). Meaning: DST/zone correction. Draw: clock over globe. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "01-birth-form",
+   "style": "ui",
+   "slug": "partner-details",
+   "name": "Partner Details",
+   "used_in": "matching form",
+   "draw": "two busts joined by line",
+   "prompt": "Icon \"Partner Details\" (partner-details). Meaning: matching form. Draw: two busts joined by line. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "02-plans",
+   "style": "illus",
+   "slug": "plan-basic",
+   "name": "Basic Kundali",
+   "used_in": "Rs 2100 plan",
+   "draw": "single scroll, one ring",
+   "prompt": "Icon \"Basic Kundali\" (plan-basic). Meaning: Rs 2100 plan. Draw: single scroll, one ring. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "02-plans",
+   "style": "illus",
+   "slug": "plan-standard",
+   "name": "Standard Kundali",
+   "used_in": "Rs 2500 plan",
+   "draw": "scroll with seal",
+   "prompt": "Icon \"Standard Kundali\" (plan-standard). Meaning: Rs 2500 plan. Draw: scroll with seal. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "02-plans",
+   "style": "illus",
+   "slug": "plan-advanced",
+   "name": "Advanced Kundali",
+   "used_in": "Rs 5100 plan",
+   "draw": "two scrolls with seal and star",
+   "prompt": "Icon \"Advanced Kundali\" (plan-advanced). Meaning: Rs 5100 plan. Draw: two scrolls with seal and star. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "02-plans",
+   "style": "illus",
+   "slug": "plan-complete",
+   "name": "Complete Kundali",
+   "used_in": "Rs 11000 plan",
+   "draw": "bound book with chart cover and lotus clasp",
+   "prompt": "Icon \"Complete Kundali\" (plan-complete). Meaning: Rs 11000 plan. Draw: bound book with chart cover and lotus clasp. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "chart-north",
+   "name": "North Indian Chart",
+   "used_in": "chart style toggle",
+   "draw": "square with inner diamond and diagonals",
+   "prompt": "Icon \"North Indian Chart\" (chart-north). Meaning: chart style toggle. Draw: square with inner diamond and diagonals. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "chart-south",
+   "name": "South Indian Chart",
+   "used_in": "chart style toggle",
+   "draw": "4x4 grid with empty centre 2x2",
+   "prompt": "Icon \"South Indian Chart\" (chart-south). Meaning: chart style toggle. Draw: 4x4 grid with empty centre 2x2. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "chart-east",
+   "name": "East Indian Chart",
+   "used_in": "chart style toggle",
+   "draw": "square with 3x3 and corner diagonals",
+   "prompt": "Icon \"East Indian Chart\" (chart-east). Meaning: chart style toggle. Draw: square with 3x3 and corner diagonals. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "lagna",
+   "name": "Lagna (Ascendant)",
+   "used_in": "report",
+   "draw": "horizon line with rising arrow and star",
+   "prompt": "Icon \"Lagna (Ascendant)\" (lagna). Meaning: report. Draw: horizon line with rising arrow and star. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "bhava-houses",
+   "name": "12 Bhava",
+   "used_in": "report",
+   "draw": "wheel of 12 segments",
+   "prompt": "Icon \"12 Bhava\" (bhava-houses). Meaning: report. Draw: wheel of 12 segments. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "navamsha-d9",
+   "name": "Navamsha (D9)",
+   "used_in": "divisional charts",
+   "draw": "small chart with 9 dots",
+   "prompt": "Icon \"Navamsha (D9)\" (navamsha-d9). Meaning: divisional charts. Draw: small chart with 9 dots. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "divisional-charts",
+   "name": "Varga Charts",
+   "used_in": "report",
+   "draw": "three stacked mini charts",
+   "prompt": "Icon \"Varga Charts\" (divisional-charts). Meaning: report. Draw: three stacked mini charts. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "dasha",
+   "name": "Vimshottari Dasha",
+   "used_in": "report",
+   "draw": "timeline bar with segments",
+   "prompt": "Icon \"Vimshottari Dasha\" (dasha). Meaning: report. Draw: timeline bar with segments. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "antardasha",
+   "name": "Antardasha",
+   "used_in": "report",
+   "draw": "segmented bar with zoom lens",
+   "prompt": "Icon \"Antardasha\" (antardasha). Meaning: report. Draw: segmented bar with zoom lens. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "transit-gochar",
+   "name": "Gochar (Transit)",
+   "used_in": "report",
+   "draw": "planet moving along arc with arrow",
+   "prompt": "Icon \"Gochar (Transit)\" (transit-gochar). Meaning: report. Draw: planet moving along arc with arrow. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "planet-degree",
+   "name": "Planet Degrees",
+   "used_in": "report",
+   "draw": "protractor arc with marker",
+   "prompt": "Icon \"Planet Degrees\" (planet-degree). Meaning: report. Draw: protractor arc with marker. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "retrograde",
+   "name": "Vakri (Retrograde)",
+   "used_in": "planet table",
+   "draw": "planet with backward loop arrow",
+   "prompt": "Icon \"Vakri (Retrograde)\" (retrograde). Meaning: planet table. Draw: planet with backward loop arrow. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "combust",
+   "name": "Asta (Combust)",
+   "used_in": "planet table",
+   "draw": "planet partly covered by sun rays",
+   "prompt": "Icon \"Asta (Combust)\" (combust). Meaning: planet table. Draw: planet partly covered by sun rays. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "exalted",
+   "name": "Uchcha (Exalted)",
+   "used_in": "planet table",
+   "draw": "planet with upward chevron",
+   "prompt": "Icon \"Uchcha (Exalted)\" (exalted). Meaning: planet table. Draw: planet with upward chevron. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "debilitated",
+   "name": "Neecha (Debilitated)",
+   "used_in": "planet table",
+   "draw": "planet with downward chevron",
+   "prompt": "Icon \"Neecha (Debilitated)\" (debilitated). Meaning: planet table. Draw: planet with downward chevron. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "yoga-detected",
+   "name": "Yoga Found",
+   "used_in": "report",
+   "draw": "two linked stars",
+   "prompt": "Icon \"Yoga Found\" (yoga-detected). Meaning: report. Draw: two linked stars. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "dosha-manglik",
+   "name": "Manglik Dosha",
+   "used_in": "dosha check",
+   "draw": "triangle (Mangal) with alert dot in red",
+   "prompt": "Icon \"Manglik Dosha\" (dosha-manglik). Meaning: dosha check. Draw: triangle (Mangal) with alert dot in red. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "dosha-kaalsarp",
+   "name": "Kaal Sarp Dosha",
+   "used_in": "dosha check",
+   "draw": "serpent encircling a chart",
+   "prompt": "Icon \"Kaal Sarp Dosha\" (dosha-kaalsarp). Meaning: dosha check. Draw: serpent encircling a chart. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "dosha-pitru",
+   "name": "Pitru Dosha",
+   "used_in": "dosha check",
+   "draw": "three ancestral diyas in row",
+   "prompt": "Icon \"Pitru Dosha\" (dosha-pitru). Meaning: dosha check. Draw: three ancestral diyas in row. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "sade-sati",
+   "name": "Sade Sati",
+   "used_in": "dosha check",
+   "draw": "ringed planet over 3-segment bar",
+   "prompt": "Icon \"Sade Sati\" (sade-sati). Meaning: dosha check. Draw: ringed planet over 3-segment bar. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "gun-milan",
+   "name": "Guna Milan (36)",
+   "used_in": "matching",
+   "draw": "two charts with link and score ring",
+   "prompt": "Icon \"Guna Milan (36)\" (gun-milan). Meaning: matching. Draw: two charts with link and score ring. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "remedy-suggest",
+   "name": "Suggested Remedy",
+   "used_in": "report",
+   "draw": "lotus with plus",
+   "prompt": "Icon \"Suggested Remedy\" (remedy-suggest). Meaning: report. Draw: lotus with plus. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "gemstone",
+   "name": "Gemstone",
+   "used_in": "remedy",
+   "draw": "faceted gem",
+   "prompt": "Icon \"Gemstone\" (gemstone). Meaning: remedy. Draw: faceted gem. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "rudraksha",
+   "name": "Rudraksha",
+   "used_in": "remedy",
+   "draw": "rudraksha bead with mukhi lines",
+   "prompt": "Icon \"Rudraksha\" (rudraksha). Meaning: remedy. Draw: rudraksha bead with mukhi lines. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "mantra-remedy",
+   "name": "Mantra",
+   "used_in": "remedy",
+   "draw": "mala loop around sound wave",
+   "prompt": "Icon \"Mantra\" (mantra-remedy). Meaning: remedy. Draw: mala loop around sound wave. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "pdf-report",
+   "name": "PDF Report",
+   "used_in": "download",
+   "draw": "document with chart thumbnail and down arrow",
+   "prompt": "Icon \"PDF Report\" (pdf-report). Meaning: download. Draw: document with chart thumbnail and down arrow. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "consult-astrologer",
+   "name": "Talk to Astrologer",
+   "used_in": "consultation CTA",
+   "draw": "astrologer bust with speech bubble",
+   "prompt": "Icon \"Talk to Astrologer\" (consult-astrologer). Meaning: consultation CTA. Draw: astrologer bust with speech bubble. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "03-chart-report",
+   "style": "ui",
+   "slug": "expert-reviewed",
+   "name": "Expert Reviewed",
+   "used_in": "trust badge",
+   "draw": "chart with check seal",
+   "prompt": "Icon \"Expert Reviewed\" (expert-reviewed). Meaning: trust badge. Draw: chart with check seal. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "04-admin",
+   "style": "ui",
+   "slug": "kundali-queue",
+   "name": "Report Queue",
+   "used_in": "admin dashboard",
+   "draw": "stacked scrolls with clock",
+   "prompt": "Icon \"Report Queue\" (kundali-queue). Meaning: admin dashboard. Draw: stacked scrolls with clock. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "04-admin",
+   "style": "ui",
+   "slug": "assign-astrologer",
+   "name": "Assign Astrologer",
+   "used_in": "admin",
+   "draw": "astrologer bust with arrow",
+   "prompt": "Icon \"Assign Astrologer\" (assign-astrologer). Meaning: admin. Draw: astrologer bust with arrow. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "04-admin",
+   "style": "ui",
+   "slug": "report-draft",
+   "name": "Draft Report",
+   "used_in": "admin status",
+   "draw": "scroll with pencil",
+   "prompt": "Icon \"Draft Report\" (report-draft). Meaning: admin status. Draw: scroll with pencil. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "04-admin",
+   "style": "ui",
+   "slug": "report-review",
+   "name": "Under Review",
+   "used_in": "admin status",
+   "draw": "scroll with magnifier",
+   "prompt": "Icon \"Under Review\" (report-review). Meaning: admin status. Draw: scroll with magnifier. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "04-admin",
+   "style": "ui",
+   "slug": "report-delivered",
+   "name": "Delivered",
+   "used_in": "admin status",
+   "draw": "scroll with check, accent green #1F7A4D",
+   "prompt": "Icon \"Delivered\" (report-delivered). Meaning: admin status. Draw: scroll with check, accent green #1F7A4D. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kundali",
+   "section": "04-admin",
+   "style": "ui",
+   "slug": "data-verify",
+   "name": "Verify Birth Data",
+   "used_in": "admin",
+   "draw": "clock and pin with check",
+   "prompt": "Icon \"Verify Birth Data\" (data-verify). Meaning: admin. Draw: clock and pin with check. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  }
+ ]
+}

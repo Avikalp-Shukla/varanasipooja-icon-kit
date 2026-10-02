@@ -1,0 +1,299 @@
+# Jyotisha Pasha - RESEARCH PHASE
+
+Prashna-Jyotisha interactive 3D experience
+
+**46 icons.** Shared icons (rashi, graha, tithi, calendar, payment, status) come from `system-icons/` and are not repeated.
+
+| Section | Style | Count |
+|---|---|---|
+| `01-pasha-game` | illus | 15 |
+| `02-question-categories` | ui | 10 |
+| `03-remedy-seva` | ui | 13 |
+| `04-3d-controls` | ui | 8 |
+
+## Styles
+
+**ui**
+```
+Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers.
+```
+**illus**
+```
+Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64.
+```
+
+```
+Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+
+Save output as `product-icons/jyotisha-pasha/output/svg/{section}/{slug}.svg`.
+
+## 01-pasha-game (illus)
+
+| slug | Name | Used in | Draw |
+|---|---|---|---|
+| `pashaka-die` | Pashaka (four-sided die) | core object | elongated four-sided oblong die, pips on visible face |
+| `pasha-face-1` | Face 1 | cast result | die face with one pip |
+| `pasha-face-2` | Face 2 | cast result | die face with two pips |
+| `pasha-face-3` | Face 3 | cast result | die face with three pips |
+| `pasha-face-4` | Face 4 | cast result | die face with four pips |
+| `cast-throw` | Cast the Pasha | primary action | hand releasing die with motion arc |
+| `cast-count` | Three Casts | progress | three die slots, first filled |
+| `key-64` | 64 Keys | result key (111-444) | 8x8 grid with one cell accented |
+| `oracle-verse` | Oracle Verse | result text | palm-leaf manuscript |
+| `dual-reading` | Dual Reading (Mode C) | mode switch | two open leaves side by side |
+| `prashna-chart` | Prashna Chart (Mode B) | mode switch | chart square with question dot |
+| `historic-oracle` | Historic Oracle (Mode A) | mode switch | old manuscript with die |
+| `spiritual-game` | Spiritual Game (Mode D) | mode switch | die inside lotus |
+| `sankalp-question` | Ask Your Question | question entry | folded hands with question bubble |
+| `shuffle-ritual` | Prepare / Dhyana | pre-cast step | diya with breath waves |
+
+<details><summary>Prompts</summary>
+
+**pashaka-die**
+```
+Icon "Pashaka (four-sided die)" (pashaka-die). Meaning: core object. Draw: elongated four-sided oblong die, pips on visible face. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**pasha-face-1**
+```
+Icon "Face 1" (pasha-face-1). Meaning: cast result. Draw: die face with one pip. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**pasha-face-2**
+```
+Icon "Face 2" (pasha-face-2). Meaning: cast result. Draw: die face with two pips. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**pasha-face-3**
+```
+Icon "Face 3" (pasha-face-3). Meaning: cast result. Draw: die face with three pips. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**pasha-face-4**
+```
+Icon "Face 4" (pasha-face-4). Meaning: cast result. Draw: die face with four pips. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**cast-throw**
+```
+Icon "Cast the Pasha" (cast-throw). Meaning: primary action. Draw: hand releasing die with motion arc. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**cast-count**
+```
+Icon "Three Casts" (cast-count). Meaning: progress. Draw: three die slots, first filled. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**key-64**
+```
+Icon "64 Keys" (key-64). Meaning: result key (111-444). Draw: 8x8 grid with one cell accented. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**oracle-verse**
+```
+Icon "Oracle Verse" (oracle-verse). Meaning: result text. Draw: palm-leaf manuscript. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**dual-reading**
+```
+Icon "Dual Reading (Mode C)" (dual-reading). Meaning: mode switch. Draw: two open leaves side by side. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**prashna-chart**
+```
+Icon "Prashna Chart (Mode B)" (prashna-chart). Meaning: mode switch. Draw: chart square with question dot. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**historic-oracle**
+```
+Icon "Historic Oracle (Mode A)" (historic-oracle). Meaning: mode switch. Draw: old manuscript with die. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**spiritual-game**
+```
+Icon "Spiritual Game (Mode D)" (spiritual-game). Meaning: mode switch. Draw: die inside lotus. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**sankalp-question**
+```
+Icon "Ask Your Question" (sankalp-question). Meaning: question entry. Draw: folded hands with question bubble. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**shuffle-ritual**
+```
+Icon "Prepare / Dhyana" (shuffle-ritual). Meaning: pre-cast step. Draw: diya with breath waves. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+
+</details>
+
+## 02-question-categories (ui)
+
+| slug | Name | Used in | Draw |
+|---|---|---|---|
+| `q-career` | Career / Work | question category | briefcase |
+| `q-wealth` | Wealth | question category | kalash with coins |
+| `q-marriage` | Marriage | question category | two garlands joined |
+| `q-family` | Family | question category | house with three people |
+| `q-health` | Health | question category | leaf with pulse line |
+| `q-education` | Education | question category | book with quill |
+| `q-travel` | Travel | question category | path with footprints |
+| `q-lost-item` | Lost Item | question category | magnifier over box |
+| `q-legal` | Legal Matter | question category | balance scale |
+| `q-spiritual` | Spiritual Path | question category | lotus with rising flame |
+
+<details><summary>Prompts</summary>
+
+**q-career**
+```
+Icon "Career / Work" (q-career). Meaning: question category. Draw: briefcase. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-wealth**
+```
+Icon "Wealth" (q-wealth). Meaning: question category. Draw: kalash with coins. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-marriage**
+```
+Icon "Marriage" (q-marriage). Meaning: question category. Draw: two garlands joined. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-family**
+```
+Icon "Family" (q-family). Meaning: question category. Draw: house with three people. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-health**
+```
+Icon "Health" (q-health). Meaning: question category. Draw: leaf with pulse line. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-education**
+```
+Icon "Education" (q-education). Meaning: question category. Draw: book with quill. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-travel**
+```
+Icon "Travel" (q-travel). Meaning: question category. Draw: path with footprints. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-lost-item**
+```
+Icon "Lost Item" (q-lost-item). Meaning: question category. Draw: magnifier over box. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-legal**
+```
+Icon "Legal Matter" (q-legal). Meaning: question category. Draw: balance scale. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**q-spiritual**
+```
+Icon "Spiritual Path" (q-spiritual). Meaning: question category. Draw: lotus with rising flame. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+
+</details>
+
+## 03-remedy-seva (ui)
+
+| slug | Name | Used in | Draw |
+|---|---|---|---|
+| `seva-gau` | Gau Seva | remedy | cow head side profile, gentle |
+| `seva-annadan` | Anna Daan | remedy | bowl of rice with ladle |
+| `seva-bird-feed` | Bird Feeding | remedy | grain bowl with bird |
+| `seva-fish-feed` | Fish Feeding | remedy | fish with grain dots over water line |
+| `seva-deep-daan` | Deep Daan | remedy | diya on leaf floating on water |
+| `seva-vastra-daan` | Vastra Daan | remedy | folded cloth |
+| `graha-shanti-puja` | Graha Shanti | remedy booking | havan kund with nine dots |
+| `donate` | Donate | donation flow | hand with diya |
+| `seva-proof` | Seva Proof | fulfilment | camera with leaf |
+| `source-cited` | Source Cited | research transparency | book with bookmark and check |
+| `not-verified` | Not Verified | research status | book with question, accent grey #8A7F70 |
+| `expert-gate` | Expert Review | admin gate | scholar bust with seal |
+| `disclaimer` | Guidance Not Guarantee | safety notice | shield with info i |
+
+<details><summary>Prompts</summary>
+
+**seva-gau**
+```
+Icon "Gau Seva" (seva-gau). Meaning: remedy. Draw: cow head side profile, gentle. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**seva-annadan**
+```
+Icon "Anna Daan" (seva-annadan). Meaning: remedy. Draw: bowl of rice with ladle. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**seva-bird-feed**
+```
+Icon "Bird Feeding" (seva-bird-feed). Meaning: remedy. Draw: grain bowl with bird. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**seva-fish-feed**
+```
+Icon "Fish Feeding" (seva-fish-feed). Meaning: remedy. Draw: fish with grain dots over water line. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**seva-deep-daan**
+```
+Icon "Deep Daan" (seva-deep-daan). Meaning: remedy. Draw: diya on leaf floating on water. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**seva-vastra-daan**
+```
+Icon "Vastra Daan" (seva-vastra-daan). Meaning: remedy. Draw: folded cloth. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**graha-shanti-puja**
+```
+Icon "Graha Shanti" (graha-shanti-puja). Meaning: remedy booking. Draw: havan kund with nine dots. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**donate**
+```
+Icon "Donate" (donate). Meaning: donation flow. Draw: hand with diya. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**seva-proof**
+```
+Icon "Seva Proof" (seva-proof). Meaning: fulfilment. Draw: camera with leaf. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**source-cited**
+```
+Icon "Source Cited" (source-cited). Meaning: research transparency. Draw: book with bookmark and check. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**not-verified**
+```
+Icon "Not Verified" (not-verified). Meaning: research status. Draw: book with question, accent grey #8A7F70. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**expert-gate**
+```
+Icon "Expert Review" (expert-gate). Meaning: admin gate. Draw: scholar bust with seal. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**disclaimer**
+```
+Icon "Guidance Not Guarantee" (disclaimer). Meaning: safety notice. Draw: shield with info i. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+
+</details>
+
+## 04-3d-controls (ui)
+
+| slug | Name | Used in | Draw |
+|---|---|---|---|
+| `rotate-3d` | Rotate | 3D scene | circular arrow around cube |
+| `zoom-in` | Zoom In | 3D scene | magnifier plus |
+| `zoom-out` | Zoom Out | 3D scene | magnifier minus |
+| `sound-on` | Sound On | ambient audio | speaker with waves |
+| `sound-off` | Sound Off | ambient audio | speaker with slash |
+| `reduce-motion` | Reduce Motion | accessibility | wave with pause bars |
+| `replay-cast` | Replay Cast | animation | circular arrow with die |
+| `share-result` | Share Reading | result | leaf with share nodes |
+
+<details><summary>Prompts</summary>
+
+**rotate-3d**
+```
+Icon "Rotate" (rotate-3d). Meaning: 3D scene. Draw: circular arrow around cube. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**zoom-in**
+```
+Icon "Zoom In" (zoom-in). Meaning: 3D scene. Draw: magnifier plus. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**zoom-out**
+```
+Icon "Zoom Out" (zoom-out). Meaning: 3D scene. Draw: magnifier minus. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**sound-on**
+```
+Icon "Sound On" (sound-on). Meaning: ambient audio. Draw: speaker with waves. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**sound-off**
+```
+Icon "Sound Off" (sound-off). Meaning: ambient audio. Draw: speaker with slash. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**reduce-motion**
+```
+Icon "Reduce Motion" (reduce-motion). Meaning: accessibility. Draw: wave with pause bars. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**replay-cast**
+```
+Icon "Replay Cast" (replay-cast). Meaning: animation. Draw: circular arrow with die. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+**share-result**
+```
+Icon "Share Reading" (share-result). Meaning: result. Draw: leaf with share nodes. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.
+```
+
+</details>

@@ -1,0 +1,522 @@
+{
+ "product": "kashi-yatra",
+ "count": 51,
+ "styles": {
+  "ui": "Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers.",
+  "illus": "Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64.",
+  "map": "3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin."
+ },
+ "negative": "Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones.",
+ "icons": [
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-jyotirlinga",
+   "name": "Jyotirlinga",
+   "used_in": "Kashi Vishwanath",
+   "draw": "shivling with crescent",
+   "prompt": "Icon \"Jyotirlinga\" (pin-jyotirlinga). Meaning: Kashi Vishwanath. Draw: shivling with crescent. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-shiva-temple",
+   "name": "Shiva Temple",
+   "used_in": "temples",
+   "draw": "trishul",
+   "prompt": "Icon \"Shiva Temple\" (pin-shiva-temple). Meaning: temples. Draw: trishul. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-devi-temple",
+   "name": "Devi Temple",
+   "used_in": "Annapurna, Durga Kund",
+   "draw": "lotus with trident tips",
+   "prompt": "Icon \"Devi Temple\" (pin-devi-temple). Meaning: Annapurna, Durga Kund. Draw: lotus with trident tips. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-bhairav",
+   "name": "Bhairav",
+   "used_in": "Kaal Bhairav",
+   "draw": "danda staff with dog silhouette small",
+   "prompt": "Icon \"Bhairav\" (pin-bhairav). Meaning: Kaal Bhairav. Draw: danda staff with dog silhouette small. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-hanuman",
+   "name": "Hanuman",
+   "used_in": "Sankat Mochan",
+   "draw": "gada (mace)",
+   "prompt": "Icon \"Hanuman\" (pin-hanuman). Meaning: Sankat Mochan. Draw: gada (mace). 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-vishnu-ram",
+   "name": "Vishnu / Ram",
+   "used_in": "Tulsi Manas Mandir",
+   "draw": "conch and chakra",
+   "prompt": "Icon \"Vishnu / Ram\" (pin-vishnu-ram). Meaning: Tulsi Manas Mandir. Draw: conch and chakra. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-ghat",
+   "name": "Ghat",
+   "used_in": "84 ghats",
+   "draw": "steps descending into water",
+   "prompt": "Icon \"Ghat\" (pin-ghat). Meaning: 84 ghats. Draw: steps descending into water. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-cremation-ghat",
+   "name": "Moksha Ghat",
+   "used_in": "Manikarnika, Harishchandra",
+   "draw": "flame over steps",
+   "prompt": "Icon \"Moksha Ghat\" (pin-cremation-ghat). Meaning: Manikarnika, Harishchandra. Draw: flame over steps. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-aarti",
+   "name": "Ganga Aarti",
+   "used_in": "Dashashwamedh",
+   "draw": "multi-tier aarti lamp",
+   "prompt": "Icon \"Ganga Aarti\" (pin-aarti). Meaning: Dashashwamedh. Draw: multi-tier aarti lamp. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-kund",
+   "name": "Kund / Tank",
+   "used_in": "Durga Kund, Lolark",
+   "draw": "square water tank",
+   "prompt": "Icon \"Kund / Tank\" (pin-kund). Meaning: Durga Kund, Lolark. Draw: square water tank. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-buddhist",
+   "name": "Buddhist Site",
+   "used_in": "Sarnath, Dhamek",
+   "draw": "stupa",
+   "prompt": "Icon \"Buddhist Site\" (pin-buddhist). Meaning: Sarnath, Dhamek. Draw: stupa. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-fort",
+   "name": "Fort / Palace",
+   "used_in": "Ramnagar Fort",
+   "draw": "fort wall with turrets",
+   "prompt": "Icon \"Fort / Palace\" (pin-fort). Meaning: Ramnagar Fort. Draw: fort wall with turrets. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-university",
+   "name": "University",
+   "used_in": "BHU",
+   "draw": "book with gate arch",
+   "prompt": "Icon \"University\" (pin-university). Meaning: BHU. Draw: book with gate arch. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-heritage",
+   "name": "Heritage Landmark",
+   "used_in": "history layer",
+   "draw": "column",
+   "prompt": "Icon \"Heritage Landmark\" (pin-heritage). Meaning: history layer. Draw: column. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-craft",
+   "name": "Living Craft",
+   "used_in": "Banarasi weaving",
+   "draw": "loom shuttle",
+   "prompt": "Icon \"Living Craft\" (pin-craft). Meaning: Banarasi weaving. Draw: loom shuttle. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-music",
+   "name": "Music Gharana",
+   "used_in": "living traditions",
+   "draw": "tanpura",
+   "prompt": "Icon \"Music Gharana\" (pin-music). Meaning: living traditions. Draw: tanpura. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-food",
+   "name": "Food Trail",
+   "used_in": "living traditions",
+   "draw": "kulhad cup",
+   "prompt": "Icon \"Food Trail\" (pin-food). Meaning: living traditions. Draw: kulhad cup. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-boat",
+   "name": "Boat Ride",
+   "used_in": "ghats",
+   "draw": "wooden boat",
+   "prompt": "Icon \"Boat Ride\" (pin-boat). Meaning: ghats. Draw: wooden boat. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-puja-service",
+   "name": "Book Puja Here",
+   "used_in": "integration CTA",
+   "draw": "diya with plus",
+   "prompt": "Icon \"Book Puja Here\" (pin-puja-service). Meaning: integration CTA. Draw: diya with plus. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "01-map-markers",
+   "style": "map",
+   "slug": "pin-you-are-here",
+   "name": "You Are Here",
+   "used_in": "navigation",
+   "draw": "filled circle with pulse ring",
+   "prompt": "Icon \"You Are Here\" (pin-you-are-here). Meaning: navigation. Draw: filled circle with pulse ring. 3D-map marker icon for a WebGL city map. 48x48 grid: a teardrop pin (#A97824 outline, #F1D592 fill) with a 24px symbol inside, 2px stroke, flat, high contrast, readable at 28px over satellite imagery and over dark night map #0F0A06. Accent #C0392B only for the meaning detail. No text. Export SVG viewBox 0 0 48 48, plus a symbol-only variant without the pin. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "02-eras-timeline",
+   "style": "illus",
+   "slug": "era-pauranik",
+   "name": "Pauranik Kaal",
+   "used_in": "Phase 1",
+   "draw": "Shiva trident with Ganga flowing from crescent",
+   "prompt": "Icon \"Pauranik Kaal\" (era-pauranik). Meaning: Phase 1. Draw: Shiva trident with Ganga flowing from crescent. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "02-eras-timeline",
+   "style": "illus",
+   "slug": "era-historical",
+   "name": "Historical Kaal",
+   "used_in": "Phase 2",
+   "draw": "stupa and temple shikhara side by side",
+   "prompt": "Icon \"Historical Kaal\" (era-historical). Meaning: Phase 2. Draw: stupa and temple shikhara side by side. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "02-eras-timeline",
+   "style": "illus",
+   "slug": "era-modern",
+   "name": "Modern Kashi",
+   "used_in": "Phase 3",
+   "draw": "Vishwanath Dham corridor gateway",
+   "prompt": "Icon \"Modern Kashi\" (era-modern). Meaning: Phase 3. Draw: Vishwanath Dham corridor gateway. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "02-eras-timeline",
+   "style": "illus",
+   "slug": "timeline",
+   "name": "Timeline",
+   "used_in": "era slider",
+   "draw": "horizontal line with three nodes",
+   "prompt": "Icon \"Timeline\" (timeline). Meaning: era slider. Draw: horizontal line with three nodes. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "02-eras-timeline",
+   "style": "illus",
+   "slug": "time-travel",
+   "name": "Switch Era",
+   "used_in": "era change",
+   "draw": "hourglass with circular arrow",
+   "prompt": "Icon \"Switch Era\" (time-travel). Meaning: era change. Draw: hourglass with circular arrow. Premium feature icon (larger than UI icons), same family as the UI set. 64x64 grid, 4px padding, 2.5px stroke, round caps/joins. Duotone: outline #A97824, flat fill #F1D592, one accent #C0392B. Authentic Indian iconography drawn with restraint and correct proportions, geometric construction, no gradients, no shadows, no text. Must read at 32px and 96px on cream #F3E9D6 and dark #0F0A06. Export clean SVG viewBox 0 0 64 64. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "route-panchkoshi",
+   "name": "Panch-Koshi Parikrama",
+   "used_in": "50 km circuit",
+   "draw": "closed loop path with five dots",
+   "prompt": "Icon \"Panch-Koshi Parikrama\" (route-panchkoshi). Meaning: 50 km circuit. Draw: closed loop path with five dots. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "route-antargrihi",
+   "name": "Antargrihi Yatra",
+   "used_in": "inner circuit",
+   "draw": "small loop inside larger loop",
+   "prompt": "Icon \"Antargrihi Yatra\" (route-antargrihi). Meaning: inner circuit. Draw: small loop inside larger loop. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "route-ghat-walk",
+   "name": "Ghat Walk",
+   "used_in": "riverfront route",
+   "draw": "footprints along wavy line",
+   "prompt": "Icon \"Ghat Walk\" (route-ghat-walk). Meaning: riverfront route. Draw: footprints along wavy line. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "route-custom",
+   "name": "My Yatra Plan",
+   "used_in": "itinerary builder",
+   "draw": "path with flag and plus",
+   "prompt": "Icon \"My Yatra Plan\" (route-custom). Meaning: itinerary builder. Draw: path with flag and plus. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "waypoint",
+   "name": "Waypoint",
+   "used_in": "route stop",
+   "draw": "diamond marker",
+   "prompt": "Icon \"Waypoint\" (waypoint). Meaning: route stop. Draw: diamond marker. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "distance",
+   "name": "Distance",
+   "used_in": "route info",
+   "draw": "ruler with arrows",
+   "prompt": "Icon \"Distance\" (distance). Meaning: route info. Draw: ruler with arrows. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "walk-time",
+   "name": "Walking Time",
+   "used_in": "route info",
+   "draw": "footprint with clock",
+   "prompt": "Icon \"Walking Time\" (walk-time). Meaning: route info. Draw: footprint with clock. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "river-ganga",
+   "name": "Ganga",
+   "used_in": "map layer",
+   "draw": "three wavy lines",
+   "prompt": "Icon \"Ganga\" (river-ganga). Meaning: map layer. Draw: three wavy lines. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "itinerary-day",
+   "name": "Day Plan",
+   "used_in": "itinerary",
+   "draw": "calendar with path",
+   "prompt": "Icon \"Day Plan\" (itinerary-day). Meaning: itinerary. Draw: calendar with path. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "audio-guide",
+   "name": "Audio Guide",
+   "used_in": "location card",
+   "draw": "headphones with leaf",
+   "prompt": "Icon \"Audio Guide\" (audio-guide). Meaning: location card. Draw: headphones with leaf. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "story-myth",
+   "name": "Katha / Legend",
+   "used_in": "location card",
+   "draw": "open scroll with flame",
+   "prompt": "Icon \"Katha / Legend\" (story-myth). Meaning: location card. Draw: open scroll with flame. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "03-routes-yatra",
+   "style": "ui",
+   "slug": "photo-360",
+   "name": "360 View",
+   "used_in": "location card",
+   "draw": "camera with circular arrow",
+   "prompt": "Icon \"360 View\" (photo-360). Meaning: location card. Draw: camera with circular arrow. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "layers",
+   "name": "Layers",
+   "used_in": "map",
+   "draw": "three stacked rhombuses",
+   "prompt": "Icon \"Layers\" (layers). Meaning: map. Draw: three stacked rhombuses. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "layer-temples",
+   "name": "Temples Layer",
+   "used_in": "layer toggle",
+   "draw": "shikhara",
+   "prompt": "Icon \"Temples Layer\" (layer-temples). Meaning: layer toggle. Draw: shikhara. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "layer-ghats",
+   "name": "Ghats Layer",
+   "used_in": "layer toggle",
+   "draw": "steps",
+   "prompt": "Icon \"Ghats Layer\" (layer-ghats). Meaning: layer toggle. Draw: steps. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "layer-history",
+   "name": "History Layer",
+   "used_in": "layer toggle",
+   "draw": "column",
+   "prompt": "Icon \"History Layer\" (layer-history). Meaning: layer toggle. Draw: column. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "layer-panchang",
+   "name": "Panchang Overlay",
+   "used_in": "auspicious times",
+   "draw": "sun with clock",
+   "prompt": "Icon \"Panchang Overlay\" (layer-panchang). Meaning: auspicious times. Draw: sun with clock. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "fly-mode",
+   "name": "Fly Mode",
+   "used_in": "camera",
+   "draw": "bird in flight",
+   "prompt": "Icon \"Fly Mode\" (fly-mode). Meaning: camera. Draw: bird in flight. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "walk-mode",
+   "name": "Walk Mode",
+   "used_in": "camera",
+   "draw": "walking person",
+   "prompt": "Icon \"Walk Mode\" (walk-mode). Meaning: camera. Draw: walking person. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "orbit",
+   "name": "Orbit",
+   "used_in": "camera",
+   "draw": "ellipse orbit around dot",
+   "prompt": "Icon \"Orbit\" (orbit). Meaning: camera. Draw: ellipse orbit around dot. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "compass",
+   "name": "Compass North",
+   "used_in": "map",
+   "draw": "compass rose N needle red",
+   "prompt": "Icon \"Compass North\" (compass). Meaning: map. Draw: compass rose N needle red. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "recenter",
+   "name": "Recenter",
+   "used_in": "map",
+   "draw": "crosshair",
+   "prompt": "Icon \"Recenter\" (recenter). Meaning: map. Draw: crosshair. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "terrain-3d",
+   "name": "3D Terrain",
+   "used_in": "toggle",
+   "draw": "mountain wireframe",
+   "prompt": "Icon \"3D Terrain\" (terrain-3d). Meaning: toggle. Draw: mountain wireframe. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "day-night",
+   "name": "Day / Night",
+   "used_in": "lighting",
+   "draw": "half sun half moon",
+   "prompt": "Icon \"Day / Night\" (day-night). Meaning: lighting. Draw: half sun half moon. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "street-search",
+   "name": "Find Place",
+   "used_in": "search",
+   "draw": "magnifier over pin",
+   "prompt": "Icon \"Find Place\" (street-search). Meaning: search. Draw: magnifier over pin. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  },
+  {
+   "product": "kashi-yatra",
+   "section": "04-map-controls",
+   "style": "ui",
+   "slug": "bookmark-place",
+   "name": "Save Place",
+   "used_in": "user",
+   "draw": "bookmark with pin",
+   "prompt": "Icon \"Save Place\" (bookmark-place). Meaning: user. Draw: bookmark with pin. Professional product UI icon, one consistent family. 24x24 grid, 2px live padding, 20x20 safe area, 1.75px stroke, round caps and joins, 2px corner radius. Duotone: primary outline #A97824 (antique gold), secondary flat fill #F1D592 at 100% placed only inside key shapes, max one accent #C0392B (kumkum red) for the meaning-carrying detail. Pixel-snapped, optically balanced, geometric, no gradients, no shadows, no texture, no text/letters unless specified. Must read clearly at 16px, 20px, 24px and 48px on cream #F3E9D6 and dark #0F0A06. Export a single clean SVG, viewBox 0 0 24 24, outlined strokes, no hidden layers. Avoid: emoji look, clip-art, cartoon faces, thin hairlines, 3D, glow, sparkles, halos, random dots, mixed stroke widths, filled blobs, illegible micro-detail, stock-icon clones."
+  }
+ ]
+}
