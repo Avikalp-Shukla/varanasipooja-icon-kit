@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="10 10 140 140" role="img" aria-label="Shiva Shakti Archana"><defs>
+    <linearGradient id="ivory" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".42" stop-color="#fff8e8"/><stop offset="1" stop-color="#ead9bf"/></linearGradient>
+    <linearGradient id="ivory2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffef7"/><stop offset="1" stop-color="#ffe9af"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff3a8"/><stop offset=".25" stop-color="#ffd84d"/><stop offset=".62" stop-color="#d4af37"/><stop offset="1" stop-color="#8d681b"/></linearGradient>
+    <linearGradient id="deepGold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe58a"/><stop offset=".55" stop-color="#b98520"/><stop offset="1" stop-color="#5f3b0f"/></linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4b0"/><stop offset="1" stop-color="#f0a91f"/></linearGradient>
+    <radialGradient id="kumkumMark" cx="34%" cy="25%" r="72%"><stop offset="0" stop-color="#ff8a5c"/><stop offset=".46" stop-color="#e0291e"/><stop offset="1" stop-color="#7b0508"/></radialGradient>
+    <linearGradient id="ashLine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#fff7e0"/><stop offset="1" stop-color="#d8c7a5"/></linearGradient>
+    <radialGradient id="pearl" cx="35%" cy="25%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset=".48" stop-color="#fff9e8"/><stop offset="1" stop-color="#e5cfa9"/></radialGradient>
+    <filter id="subjectShadow" x="-35%" y="-35%" width="170%" height="190%"><feDropShadow dx="0" dy="8" stdDeviation="5" flood-color="#000" flood-opacity=".35"/><feDropShadow dx="0" dy="1.5" stdDeviation="1" flood-color="#ffffff" flood-opacity=".32"/></filter>
+    <filter id="tinyShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#2b0b09" flood-opacity=".22"/></filter>
+    <filter id="blur"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs><g><g transform="translate(0 0)">
+<g filter="url(#subjectShadow)">
+<circle cx="80" cy="82" r="52" fill="url(#ivory2)"  opacity=".24" stroke="url(#gold)" stroke-width="2"/>
+<path d="M46.38 57.7 C65.24 52.78 94.76 52.78 113.62 57.7" fill="none" stroke="url(#ashLine)" stroke-width="8.2" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M44.74 70 C65.24 65.08 94.76 65.08 115.26 70" fill="none" stroke="url(#ashLine)" stroke-width="8.2" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M46.38 82.3 C65.24 77.38 94.76 77.38 113.62 82.3" fill="none" stroke="url(#ashLine)" stroke-width="8.2" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M48.02 59.34 C70.16 56.06 89.84 56.06 111.98 59.34M48.02 71.64 C70.16 68.36 89.84 68.36 111.98 71.64M48.02 83.94 C70.16 80.66 89.84 80.66 111.98 83.94" fill="none" stroke="url(#deepGold)" stroke-width="1.8859999999999997" stroke-linecap="round" stroke-linejoin="round" opacity=".62"/>
+<circle cx="80" cy="102" r="24" fill="url(#kumkumMark)"  stroke="url(#gold)" stroke-width="5"/>
+<path d="M43 126c22 10 52 10 74 0" fill="none" stroke="url(#gold)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M80 29v23M55 101l-18 21M105 101l18 21" fill="none" stroke="url(#ivory)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" opacity=".75"/>
+</g></g></g></svg>

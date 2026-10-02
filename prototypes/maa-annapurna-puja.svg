@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="10 10 140 140" role="img" aria-label="Maa Annapurna Puja"><defs>
+    <linearGradient id="ivory" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".42" stop-color="#fff8e8"/><stop offset="1" stop-color="#ead9bf"/></linearGradient>
+    <linearGradient id="ivory2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffef7"/><stop offset="1" stop-color="#ffe9af"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff3a8"/><stop offset=".25" stop-color="#ffd84d"/><stop offset=".62" stop-color="#d4af37"/><stop offset="1" stop-color="#8d681b"/></linearGradient>
+    <linearGradient id="deepGold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe58a"/><stop offset=".55" stop-color="#b98520"/><stop offset="1" stop-color="#5f3b0f"/></linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4b0"/><stop offset="1" stop-color="#f0a91f"/></linearGradient>
+    <radialGradient id="kumkumMark" cx="34%" cy="25%" r="72%"><stop offset="0" stop-color="#ff8a5c"/><stop offset=".46" stop-color="#e0291e"/><stop offset="1" stop-color="#7b0508"/></radialGradient>
+    <linearGradient id="ashLine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#fff7e0"/><stop offset="1" stop-color="#d8c7a5"/></linearGradient>
+    <radialGradient id="pearl" cx="35%" cy="25%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset=".48" stop-color="#fff9e8"/><stop offset="1" stop-color="#e5cfa9"/></radialGradient>
+    <filter id="subjectShadow" x="-35%" y="-35%" width="170%" height="190%"><feDropShadow dx="0" dy="8" stdDeviation="5" flood-color="#000" flood-opacity=".35"/><feDropShadow dx="0" dy="1.5" stdDeviation="1" flood-color="#ffffff" flood-opacity=".32"/></filter>
+    <filter id="tinyShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#2b0b09" flood-opacity=".22"/></filter>
+    <filter id="blur"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs><g><g transform="translate(0 0)"><g filter="url(#subjectShadow)">
+<circle cx="80" cy="49" r="17" fill="url(#kumkumMark)"  stroke="url(#gold)" stroke-width="4"/>
+<path d="M40 94c8 34 72 34 80 0H40z" fill="url(#ivory2)"  stroke="url(#deepGold)" stroke-width="4"/>
+<path d="M52 90c10-15 46-15 56 0" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="61" cy="86" r="5" fill="url(#gold)" />
+<circle cx="74" cy="80" r="5" fill="url(#ivory2)" />
+<circle cx="87" cy="81" r="5" fill="url(#gold)" />
+<circle cx="101" cy="87" r="5" fill="url(#ivory2)" />
+<path d="M49 124h62M57 136h46" fill="none" stroke="url(#deepGold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M48 61c18-10 46-10 64 0" fill="none" stroke="url(#ivory)" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round" />
+</g></g></g></svg>
