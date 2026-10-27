@@ -1,0 +1,408 @@
+{
+  "batch": "01",
+  "range": "1-50",
+  "expected_icons": 50,
+  "verified_icons": 50,
+  "icons": [
+    {
+      "file": "ganpati-pooja-desktop.png",
+      "slug": "ganpati-pooja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1770245,
+      "sha256": "9ab3ce6c0bb855378be66dc383273e845e11ee840706089a2667b30d2030d2e2"
+    },
+    {
+      "file": "shiv-pooja-desktop.png",
+      "slug": "shiv-pooja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1818638,
+      "sha256": "63aaadeb3b2988ea9f43f691c6b43728389b2277d8e8ea60f08eb81d3ee92d8b"
+    },
+    {
+      "file": "guardian-protector-desktop.png",
+      "slug": "guardian-protector",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1544089,
+      "sha256": "df0ba3a45fb3caf9e311cf9db73e32865a580c8508e0135b5aca4da5b7f62bcd"
+    },
+    {
+      "file": "pitru-karya-desktop.png",
+      "slug": "pitru-karya",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1802773,
+      "sha256": "15e265f0fd8eaadd417593f19085c6e841116b01f75fcc7be360a694d27821d9"
+    },
+    {
+      "file": "grah-shanti-desktop.png",
+      "slug": "grah-shanti",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1897845,
+      "sha256": "45b81c36ccbb0357bcac13ce6c7986e6491ae4ba736b92a4a4265826deac1b3b"
+    },
+    {
+      "file": "devi-pooja-desktop.png",
+      "slug": "devi-pooja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1652828,
+      "sha256": "2f190374e44fdff413b4b1e49f33597d1c9813aa27cd3c709a0fe40cedfcf025"
+    },
+    {
+      "file": "sanskar-life-events-desktop.png",
+      "slug": "sanskar-life-events",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1698945,
+      "sha256": "54a77508c67fd72a3ce0ae946d8edba518a2f8820f1196c13360e4834a67488d"
+    },
+    {
+      "file": "ganga-kashi-rituals-desktop.png",
+      "slug": "ganga-kashi-rituals",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1604241,
+      "sha256": "7d4807fe96910f37f45fc2face1b3ff8c3167d23fdf3cff95b91ef45de5e2a46"
+    },
+    {
+      "file": "online-pooja-services-desktop.png",
+      "slug": "online-pooja-services",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1422105,
+      "sha256": "9e391c4486024e5f9cc0fbee8d578a644427b332da1f1cf73aab813d11ed1368"
+    },
+    {
+      "file": "astrology-services-desktop.png",
+      "slug": "astrology-services",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2499328,
+      "sha256": "ab11623d1b29487400c91c608645f9366a199acd152806073ffaaae2c029e9ff"
+    },
+    {
+      "file": "book-now-desktop.png",
+      "slug": "book-now",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2339320,
+      "sha256": "3c34d74fbca1fb4019a1d2578f9279392817913b709afc252c9ce6a71a2093e6"
+    },
+    {
+      "file": "booking-token-desktop.png",
+      "slug": "booking-token",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1643265,
+      "sha256": "6016c6d13fcc3ea779d7b796f98e470af48ca64860f2728392655d51b57a4f58"
+    },
+    {
+      "file": "phone-call-desktop.png",
+      "slug": "phone-call",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1430977,
+      "sha256": "cd91bb1cdacb570a711b4ab6918d180228eea3077522978a7609c38deb400d0d"
+    },
+    {
+      "file": "whatsapp-desktop.png",
+      "slug": "whatsapp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1937081,
+      "sha256": "4d4df69da11b7938b02ca9c6e1c323890a9bdd3be4fb1fed51dbf6c3850b3eb4"
+    },
+    {
+      "file": "chat-support-desktop.png",
+      "slug": "chat-support",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1606628,
+      "sha256": "14fb8e178da35afd1e9108f179cc266db3887ec25edef586f21883429aff44e1"
+    },
+    {
+      "file": "talk-to-acharya-desktop.png",
+      "slug": "talk-to-acharya",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1621426,
+      "sha256": "547ae7cddd72b1ef95c52ec98c19cf96054b154f7cb8a3a76a54af7ee323cac9"
+    },
+    {
+      "file": "acharya-guidance-desktop.png",
+      "slug": "acharya-guidance",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1577690,
+      "sha256": "0d1c08e9a62d672a0014ae44f29ceedae056bfae42ea79c736fbada0eaf0a450"
+    },
+    {
+      "file": "email-desktop.png",
+      "slug": "email",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1820506,
+      "sha256": "74884221cb5682d622843f56077ac2624bdf60cbe77907fba4f4c1faf1dfdada"
+    },
+    {
+      "file": "location-desktop.png",
+      "slug": "location",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1344105,
+      "sha256": "7e2e8bec2e9ce009fff8d617efcb0bfd6523771e5042c929a113c7a3aee5d487"
+    },
+    {
+      "file": "map-pin-desktop.png",
+      "slug": "map-pin",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1122463,
+      "sha256": "553c9350ed9511745799bbebe3c1bb019f52982d4c3e422a88677e52c8bcd02a"
+    },
+    {
+      "file": "callback-desktop.png",
+      "slug": "callback",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1159141,
+      "sha256": "bace97b12a2ca50573602fbbb3b06db224325d20b5f66c1c93dc8e46f3a23dd3"
+    },
+    {
+      "file": "video-call-desktop.png",
+      "slug": "video-call",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1251980,
+      "sha256": "caa6ee94e1b79a41e1db0aadaca1402f0a208c99001988fda5b7341a36ee3dd8"
+    },
+    {
+      "file": "headset-support-desktop.png",
+      "slug": "headset-support",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1470605,
+      "sha256": "90b7a26f66a96f268d05419a1c32de986ad0a6a8752c6876fa1855c4d6c293a1"
+    },
+    {
+      "file": "notification-desktop.png",
+      "slug": "notification",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1202154,
+      "sha256": "15936f95f1d962825273844e9a2b5f719f9ee8a39d29d54c8c91687b191941ee"
+    },
+    {
+      "file": "broadcast-live-desktop.png",
+      "slug": "broadcast-live",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1112771,
+      "sha256": "39809885a18e3ce0d24f196f1b89abcc48fcacb763e1724a3af7b6183455d880"
+    },
+    {
+      "file": "calendar-slot-desktop.png",
+      "slug": "calendar-slot",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1601357,
+      "sha256": "cbdae207ed281750f2cf1df45267aa98f593e8b125ab2572a309e99c69fdfcda"
+    },
+    {
+      "file": "time-slot-desktop.png",
+      "slug": "time-slot",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1729544,
+      "sha256": "86435a2cb305c26c341b3447b7ba44ae73683725a7d691f9b1ba60f7bcd0f323"
+    },
+    {
+      "file": "rupee-price-desktop.png",
+      "slug": "rupee-price",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2062405,
+      "sha256": "f3c748d4b9a2c0e0ecabf2aaa91bd9e0f5e2ab4445c94719d050b6e90abc70b6"
+    },
+    {
+      "file": "price-range-desktop.png",
+      "slug": "price-range",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1349670,
+      "sha256": "699bbb63f8f47bcde2030c0469aa336fd2211c214a65bcec15661c09874a537d"
+    },
+    {
+      "file": "payment-desktop.png",
+      "slug": "payment",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1701855,
+      "sha256": "f427452ffc03a0e7205763b46ca602f4fc921990ebda7e05976f2fa25af42fd4"
+    },
+    {
+      "file": "secure-payment-desktop.png",
+      "slug": "secure-payment",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1763697,
+      "sha256": "e73df6d7abf45edb19913c7d7de200a83e5b201aa915b5010ae3bc6a4831ac0c"
+    },
+    {
+      "file": "cart-desktop.png",
+      "slug": "cart",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1371868,
+      "sha256": "7f0a0a295475d03d77cf408a8125179ce1f2e7c4bc89009d245a21c957005a28"
+    },
+    {
+      "file": "cart-add-desktop.png",
+      "slug": "cart-add",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1469455,
+      "sha256": "4f97667f9b80e6e6ea502ac960b5ce4bec4df59ae46a192efb508310778d2b18"
+    },
+    {
+      "file": "order-pending-desktop.png",
+      "slug": "order-pending",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1675357,
+      "sha256": "8ccd33b7e5c50bba738adf8b0aabcaab8daf318e58b0d3acd949cffc026aa2e3"
+    },
+    {
+      "file": "order-confirmed-desktop.png",
+      "slug": "order-confirmed",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1761390,
+      "sha256": "d27a953bfee6fafbbda25450447307eed602394312ed449f1b4bb179bca120b1"
+    },
+    {
+      "file": "order-complete-desktop.png",
+      "slug": "order-complete",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1857893,
+      "sha256": "4a33c5955808f72a5dc83f34a8927a40643cbb7d523bea94511f9d8dcbac1070"
+    },
+    {
+      "file": "reschedule-desktop.png",
+      "slug": "reschedule",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1847266,
+      "sha256": "d17ca93ccd40642c691abc30738cbf3398f941ec3d19dc7d8fa8b1120ab08c06"
+    },
+    {
+      "file": "cancel-booking-desktop.png",
+      "slug": "cancel-booking",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1807475,
+      "sha256": "61a7b7e7e8904b868527b0e2da01fa67db4ceaa6d8d1872e7b06f1c45d7ed0b7"
+    },
+    {
+      "file": "refund-desktop.png",
+      "slug": "refund",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1529553,
+      "sha256": "5dcaf83a8c81348cd42a532191ecec9f86822e5c4a771523640d0f2231371057"
+    },
+    {
+      "file": "receipt-desktop.png",
+      "slug": "receipt",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1279332,
+      "sha256": "a6e5a1f4049bbaf52fba616257c0fef629eb07222237dd2a190878818bd5ea97"
+    },
+    {
+      "file": "invoice-desktop.png",
+      "slug": "invoice",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1458851,
+      "sha256": "72df321d0aa40468b105ffa6e8b358e188516f5578e1ec4a17d2aa3537832e63"
+    },
+    {
+      "file": "certificate-desktop.png",
+      "slug": "certificate",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1838731,
+      "sha256": "460f689190e30861ea5c58cbeb085f3605d3835d2502076bb71171ce69dcfe2e"
+    },
+    {
+      "file": "download-desktop.png",
+      "slug": "download",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1181964,
+      "sha256": "d29bb04bf51ff55f98fd85acbc043f6d5a224bbb26dab0caf944b98fb60029ea"
+    },
+    {
+      "file": "document-pdf-desktop.png",
+      "slug": "document-pdf",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1667826,
+      "sha256": "6364ada888a39764cd411e340ba3ae97ffbd425f727d58a834ea71ecbc491d8f"
+    },
+    {
+      "file": "package-compare-desktop.png",
+      "slug": "package-compare",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1132741,
+      "sha256": "45069b8fef718ac665a077f836fdd99073d7300f3082183db8476909f974b6fd"
+    },
+    {
+      "file": "materials-checklist-desktop.png",
+      "slug": "materials-checklist",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1775021,
+      "sha256": "28a50f89057b336b29ee900e668052b4d9d02b683ba54e6a4f31e6d7a4ce1397"
+    },
+    {
+      "file": "prasad-delivery-desktop.png",
+      "slug": "prasad-delivery",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1174970,
+      "sha256": "fec76812170f3c95094e4fb82b9401e2c8f7cddc914ed973709d87597e99d19b"
+    },
+    {
+      "file": "delivery-date-desktop.png",
+      "slug": "delivery-date",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1591177,
+      "sha256": "b6b530dcdbd6dab3979d32611f2f574ffc8c9c0f5b0a8da15cc5e1410c2b12ef"
+    },
+    {
+      "file": "rudrabhishek-desktop.png",
+      "slug": "rudrabhishek",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1276643,
+      "sha256": "2b16f43e946edd9968cc8f35823d4450dbe7e84f61f13a9e19560b494a9e23aa"
+    },
+    {
+      "file": "mahamrityunjay-jaap-desktop.png",
+      "slug": "mahamrityunjay-jaap",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1266775,
+      "sha256": "b532a78fde7cfb7cfc62fb78248f62601af5ae279e3bde3d45bbb95af4f5135c"
+    }
+  ]
+}

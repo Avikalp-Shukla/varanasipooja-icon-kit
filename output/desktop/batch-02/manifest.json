@@ -1,0 +1,408 @@
+{
+  "batch": "02",
+  "range": "51-100",
+  "expected_icons": 50,
+  "verified_icons": 50,
+  "icons": [
+    {
+      "file": "shivarchana-desktop.png",
+      "slug": "shivarchana",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1400396,
+      "sha256": "b84e43f7f24c08220acf57bfeaed834827468d83532ab5cd26b3b946221966ac"
+    },
+    {
+      "file": "shiva-shakti-archana-desktop.png",
+      "slug": "shiva-shakti-archana",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 964350,
+      "sha256": "20dd19fbf690b09cea9f6e4b325a4ee3cf02134556d47bee560f5ffe07f4a9aa"
+    },
+    {
+      "file": "kashi-vishwanath-puja-desktop.png",
+      "slug": "kashi-vishwanath-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1179322,
+      "sha256": "b82aa9c8051fc8b8abce0935d562e6923dc88c728c444490156961c79a0182a6"
+    },
+    {
+      "file": "kashi-vishwanath-darshan-desktop.png",
+      "slug": "kashi-vishwanath-darshan",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1031031,
+      "sha256": "7c0335696a7a3ae0f75dddd774ec3324560c9726bb098df29d853b4501c0350b"
+    },
+    {
+      "file": "kaal-bhairav-puja-desktop.png",
+      "slug": "kaal-bhairav-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1132142,
+      "sha256": "67801d5e722e7b3417897e59d5df18dba48252f07bfd062391ebeedb26deef08"
+    },
+    {
+      "file": "hanuman-puja-desktop.png",
+      "slug": "hanuman-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 791618,
+      "sha256": "30a70fe1f1ba1c0b990c5aaf4942fe7b038b2a202d5a0f8ca5ee154e3fa68e26"
+    },
+    {
+      "file": "ganpati-puja-desktop.png",
+      "slug": "ganpati-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1462024,
+      "sha256": "cf1e7cd00d519ec3372e3fd00ba1af64b3b47409e477008c443b86a4dd8a7835"
+    },
+    {
+      "file": "56-vinayaka-puja-desktop.png",
+      "slug": "56-vinayaka-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1430809,
+      "sha256": "c7e894e0429333f7adcab177baa1e29c09c0833146d0f352b333473028f132ca"
+    },
+    {
+      "file": "vishnu-puja-desktop.png",
+      "slug": "vishnu-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1693342,
+      "sha256": "9e0ee8544874025484ad11ecc03dc85ac4a1b34357e8369ad615a0b9d48e15cc"
+    },
+    {
+      "file": "narayana-puja-desktop.png",
+      "slug": "narayana-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1950991,
+      "sha256": "93469e7945f55a55899982f83b7c1db7bfb79220d625ffe3f2c09d8ed133e6da"
+    },
+    {
+      "file": "maa-annapurna-puja-desktop.png",
+      "slug": "maa-annapurna-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1493185,
+      "sha256": "b2b5540a2394dda8c06df986de288e796253a06bc64e89282551a2c29386c523"
+    },
+    {
+      "file": "devi-puja-desktop.png",
+      "slug": "devi-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1724074,
+      "sha256": "835493cd9ef7816551ccfc04a61ca4a871e8a7bee1b084a930e52f0d7a67e186"
+    },
+    {
+      "file": "shakti-puja-desktop.png",
+      "slug": "shakti-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2158474,
+      "sha256": "fe7cdd4bd9d241946180b5ae30d4cb59bde8e37e8ff129838ca64e178cc6f4ba"
+    },
+    {
+      "file": "chandi-path-desktop.png",
+      "slug": "chandi-path",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1255353,
+      "sha256": "7d24f4f2eac63088afe6fd3c00c6ef75a83481f6466544700613a192b0399636"
+    },
+    {
+      "file": "durga-saptashati-desktop.png",
+      "slug": "durga-saptashati",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1422485,
+      "sha256": "f88c29ac599fb61d31cd2cca3ec97049a614472c92e3f3b7f43ccb6acdb742f9"
+    },
+    {
+      "file": "saraswati-puja-desktop.png",
+      "slug": "saraswati-puja",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1531556,
+      "sha256": "985567783204ea31b234d14752acdd241239a5d809682ac863c6b757990cb306"
+    },
+    {
+      "file": "pind-daan-desktop.png",
+      "slug": "pind-daan",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1433316,
+      "sha256": "9892bc8df30dcd88c7e0600f5c42f9f67bcf81fe59901773acf0bb1aaa05bfbe"
+    },
+    {
+      "file": "tripindi-shraddha-desktop.png",
+      "slug": "tripindi-shraddha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1592282,
+      "sha256": "60b88533ad7b72edc76523ea239a871444d3e5a515973d6f78471dad39f2d8ff"
+    },
+    {
+      "file": "shraddha-karma-desktop.png",
+      "slug": "shraddha-karma",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1477542,
+      "sha256": "3d66e0344e2aeca4ca1be58e0ed79c848defb38d05b83067a954dbb73785e65e"
+    },
+    {
+      "file": "tarpan-desktop.png",
+      "slug": "tarpan",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1188635,
+      "sha256": "848f2fcbbf9c4ed506c199716d6e1adf63f7d50b53788572b8e54a77453ba12b"
+    },
+    {
+      "file": "thevasam-desktop.png",
+      "slug": "thevasam",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1331020,
+      "sha256": "7a0f5799579490ef33852436a3bc8f3308900987eb83a1ad69043ce4ceb027a2"
+    },
+    {
+      "file": "narayana-bali-desktop.png",
+      "slug": "narayana-bali",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1555113,
+      "sha256": "325b2c6fe2e6af6f28a4d69838a90cb13f64d3be92245cb16a1b4aeb34855cad"
+    },
+    {
+      "file": "naga-bali-desktop.png",
+      "slug": "naga-bali",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1400108,
+      "sha256": "0e0afb8cfc964f0b6df9847dee168e9fa4547753a7ecafce1a751b0f59ebdfa9"
+    },
+    {
+      "file": "pitri-dosh-nivaran-desktop.png",
+      "slug": "pitri-dosh-nivaran",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1302580,
+      "sha256": "d3284f48fa01f77bdeaf56d7c1ac347db2fa7feeded021152b9dc2c429120ae9"
+    },
+    {
+      "file": "asthi-visarjan-desktop.png",
+      "slug": "asthi-visarjan",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1486580,
+      "sha256": "6b62e6fd2a69253bbe2cd70cf27f4323b5b822bf64f09e7e2ef1b8042a81ba80"
+    },
+    {
+      "file": "antyesti-sanskar-desktop.png",
+      "slug": "antyesti-sanskar",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1553423,
+      "sha256": "ae487c2a4391843dc68bcc87a99758d2e551822fab66a11d3f2ddd8f5fa64d7d"
+    },
+    {
+      "file": "moksha-karya-desktop.png",
+      "slug": "moksha-karya",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1535377,
+      "sha256": "081a15d5e47bc17441aae050e24ec3fd45cf340d3830f6790d65e0883e6018a2"
+    },
+    {
+      "file": "navgrah-shanti-desktop.png",
+      "slug": "navgrah-shanti",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2235993,
+      "sha256": "1cc7fe40957a5cbb50b98b3e9922e1da4636740e104b0bfadf2edaaa97c6d6d4"
+    },
+    {
+      "file": "kaal-sarp-dosh-desktop.png",
+      "slug": "kaal-sarp-dosh",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1901425,
+      "sha256": "ae5f2f6514cf8823e0181bdf54100199687a113a77515c823b7d143b000ce55f"
+    },
+    {
+      "file": "mangal-dosh-desktop.png",
+      "slug": "mangal-dosh",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1781772,
+      "sha256": "f68170d4101de197c406b855390aba6a8465af21017836df4077e65aee3b9190"
+    },
+    {
+      "file": "pitri-dosh-desktop.png",
+      "slug": "pitri-dosh",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1269482,
+      "sha256": "b6d42672992391ac22ce49d1af9294098a61e03430a3a51c6acbe60681266c77"
+    },
+    {
+      "file": "vedic-astrology-consultation-desktop.png",
+      "slug": "vedic-astrology-consultation",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1814734,
+      "sha256": "a200b62a398124de0411a037ebf6b4bb3e1c1b53a92452b52077c204ac131f7c"
+    },
+    {
+      "file": "kundali-booking-desktop.png",
+      "slug": "kundali-booking",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1741485,
+      "sha256": "9cead59ea3ed558559e92da254ac364fd1bb2cefbafe69dc744eccf6d09e6213"
+    },
+    {
+      "file": "kundali-chart-desktop.png",
+      "slug": "kundali-chart",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1791867,
+      "sha256": "8387a869213e830e3283a751e31cbf23590f5d15d2c0e36d28fad3afe8365851"
+    },
+    {
+      "file": "surya-graha-desktop.png",
+      "slug": "surya-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1310812,
+      "sha256": "2793b38b6f05aeb5898b3d840e65b5c9f0206cc7b8196038845d8584071b6fb3"
+    },
+    {
+      "file": "chandra-graha-desktop.png",
+      "slug": "chandra-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1037687,
+      "sha256": "0df7c1e8b458996068c9ffba1ed1fba37142ddb9aed5321622c4f494417c3bc7"
+    },
+    {
+      "file": "mangal-graha-desktop.png",
+      "slug": "mangal-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1569072,
+      "sha256": "cc95ee29eb55a1ec2fb2019630008158b13e9cc6a910bed5516b3fe9ebec6509"
+    },
+    {
+      "file": "budh-graha-desktop.png",
+      "slug": "budh-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1499445,
+      "sha256": "5c7820a3f2ca4093b1425d9f978211f871b29a3d0759898e983505b1d80ec6a0"
+    },
+    {
+      "file": "guru-graha-desktop.png",
+      "slug": "guru-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1620320,
+      "sha256": "6eb91858910c445dd62657cf9694d2af0ff0d5d24993b91c5f3eacdb25564f46"
+    },
+    {
+      "file": "shukra-graha-desktop.png",
+      "slug": "shukra-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1668833,
+      "sha256": "3f910bc85d34c8413e04fde4116e06f3185bb2b6e855b45ef73c360e2d80b59f"
+    },
+    {
+      "file": "shani-graha-desktop.png",
+      "slug": "shani-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1277490,
+      "sha256": "4b38cfd37c3e65ceef089147e1333dca1f9b5b933693741b0113a9d20566ba9b"
+    },
+    {
+      "file": "rahu-graha-desktop.png",
+      "slug": "rahu-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1675716,
+      "sha256": "0c862f29d765a2d9c2807cd8ce2b4afe8bbd2a62430643110fe969e4da51a1d8"
+    },
+    {
+      "file": "ketu-graha-desktop.png",
+      "slug": "ketu-graha",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1591400,
+      "sha256": "693db965d36ae1677196b105777d595eafa45c3edfe647f2e83a0a196466a85d"
+    },
+    {
+      "file": "ganga-aarti-desktop.png",
+      "slug": "ganga-aarti",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1208408,
+      "sha256": "2e4e40b53b4975913c16f916fcbec7185dc78d8c19c764dfa3d3aaf2d97fc5ba"
+    },
+    {
+      "file": "ganga-boat-ride-desktop.png",
+      "slug": "ganga-boat-ride",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1334213,
+      "sha256": "b6940207a58e420710901077ee66cd0d14f3e918adf3c5eef6d60df49f74748d"
+    },
+    {
+      "file": "kashi-darshan-package-desktop.png",
+      "slug": "kashi-darshan-package",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1262968,
+      "sha256": "8ca249b4b2d2fa5f747495b0ad5827e97f67b9dc65d8c3bea1325232a4f60778"
+    },
+    {
+      "file": "vip-darshan-desktop.png",
+      "slug": "vip-darshan",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1377253,
+      "sha256": "420164ecc23309151682f76ccb63af8e1e54a1250768f92ed85fbe09457c4d55"
+    },
+    {
+      "file": "temple-route-desktop.png",
+      "slug": "temple-route",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 851030,
+      "sha256": "8d3c1da7eb798e80853ed5f2587f000704e341666f74099f1914296aa1e91c44"
+    },
+    {
+      "file": "tour-guide-desktop.png",
+      "slug": "tour-guide",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1350527,
+      "sha256": "14a6ae8cf63fc20d3e18a2e7fb101e434344a79144bdc3ab5c9ae6033a2a0107"
+    },
+    {
+      "file": "itinerary-desktop.png",
+      "slug": "itinerary",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 1605888,
+      "sha256": "41cbc1d499891848833170a13106afb74e0ec1abdf64b1efeed972ebe7e3c0f9"
+    }
+  ]
+}
